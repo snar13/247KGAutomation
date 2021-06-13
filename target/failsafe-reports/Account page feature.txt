@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Account page feature
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 69.443 s <<< FAILURE! - in Account page feature
+Account page title(Account page feature)  Time elapsed: 35.219 s  <<< FAILURE!
+junit.framework.ComparisonFailure: expected:<[My Account]> but was:<[]>
+
